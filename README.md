@@ -1,50 +1,52 @@
-<p  align="center">
-<a href="https://ibb.co/d7LhvXn"><img src="https://i.ibb.co/d7LhvXn/coder.png" height="auto" alt="coder" border="0"></a>
+<p align="center">
+<a href="https://ibb.co/d7LhvXn"><img src="https://i.ibb.co/d7LhvXn/coder.png" width='25%' height="auto" alt="coder" border="0"></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Md Abdullah All Naim's Github Profile </h1>
 <h3 align="center">I'm a passionate and curious Python Programmer and Python Django Developer</h3>
 
 <!-- <img src="https://img.icons8.com/bubbles/50/000000/about.png"/><h1 align="center"> I'm Naim </h1> -->
-<span style='display : flex'>
-        <p style='padding-right:10px'><img width="30px" height="30px" src="https://img.icons8.com/bubbles/50/000000/about.png"/></p>
-        <h2><b>About Me</b> </h2>
-</span>
+<h2>
+        <span style='padding-right:10px'><img width="30px" height="30px" src="https://img.icons8.com/bubbles/50/000000/about.png"/></span>
+        <b>About Me</b>
+</h2>
 
 
-<span style='margin-left:29px'> 
-    <span style='display : flex'>
-        <p style='padding-right:10px'><img src="https://img.icons8.com/color/25/000000/project-management.png"/></p>
-        <p>I’m currently working on <b>Python Django Development</b> </p>
-    </span>
-    <span style='display : flex'>
-        <p style='padding-right:10px'><img src="https://img.icons8.com/color/28/000000/learning.png"/></p>
-        <p>I’m currently learning <b>Data Structures and Algorithms.</b> </p>
-    </span>
-    <span style='display : flex'>
-        <p style='padding-right:10px'><img src="https://img.icons8.com/office/28/000000/search-client.png"/></p>
-        <p>I’m looking to collaborate on <b>OpenSource Projects</b> </p>
-    </span>
-    <span style='display : flex'>
-        <p style='padding-right:10px'><img src="https://img.icons8.com/fluency/28/000000/portfolio.png"/></p>
-        <p>All of my projects are available at  <b><a href="https://abdullah-all-naim.netlify.app">My Portfolio</a> </b> </p>
-    </span>
-    <span style='display : flex'>
-        <p style='padding-right:10px'><img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/></p>
-        <p>I really love to meet with new people</p>
-    </span>
+<p> 
+    <p> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
+            <span>I’m currently working on <b>Python Django Development</b></span>
+    </p>
+    <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
+        <span>I’m currently learning <b>Data Structures and Algorithms.</b> </span>
+    </p>
+    <p >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
+        <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
+    </p>
+    <p >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluency/28/000000/portfolio.png"/>
+        <span>All of my projects are available at  <b><a href="https://abdullah-all-naim.netlify.app">My Portfolio</a> </b> </span>
+    </p>
+    <p >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
+        <span>I really love to meet with new people</span>
+    </p>
 
-</span>
+</p>
 
 
-<span style='display : flex'>
-        <p style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></p>
-        <h2><b>Languages and Tools :</b> </h2>
-</span>
+
+
+<h2 style='margin-top:30px'>
+        <span style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></span>
+        <b>Languages and Tools :</b>
+</h2>
 
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
     <img src="https://img.icons8.com/color/48/000000/django.png"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -64,19 +66,16 @@
 
 <p align="center">
     <a href="https://github.com/abdullahallnaim/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahallnaim&theme=gruvbox_duo&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="naim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahallnaim&theme=onedark&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
     </a>
 </p>
 
-<span style='display : flex'>
-        <p style='padding-right:10px'><img width='30' hwight="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></p>
-        <h2><b>My Github Statistic :</b> </h2>
-</span>
-
-
-  <br/>
-    <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahallnaim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahallnaim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h2>
+        <span style='padding-right:10px'><img width='30' height="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></span>
+        <b>My Github Statistic :</b>
+</h2>
+    <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahallnaim&show_icons=true&count_private=true&theme=onedark&hide_border=true&background=060A0CD0" /></a>
+  <a href="https://github.com/abdullahallnaim/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahallnaim&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&background=060A0CD0" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -84,17 +83,17 @@
 <br/>
 <br/>
 
-<p>
-<a href="https://github.com/abdullahallnaim/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullahallnaim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-
-<br/>
-<br/>
-
-<span style='display : flex'>
-        <p style='padding-right:10px'><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></p>
-        <h2><b>Connect with me :</b> </h2>
+<span>
+<a href="https://github.com/abdullahallnaim/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullahallnaim&theme=redical&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=060A0CD0" /></a>
 </span>
+
+<br/>
+<br/>
+
+<h2 style='margin-top:30px'>
+        <span><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
+        <b>Connect with me :</b>
+</h2>
 
 <p align='left'>
     <a href = "https://www.linkedin.com/in/md-abdullah-all-naim/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
@@ -102,10 +101,10 @@
     <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-<span style='display : flex'>
-        <p style='padding-right:10px'><img src="https://img.icons8.com/doodle/48/000000/follow.png"/></p>
-        <h2><b>Views and Followers :</b> </h2>
-</span>
+<h2 style='display : flex;margin-top:30px'>
+        <span style='padding-right:10px'><img src="https://img.icons8.com/doodle/48/000000/follow.png"/></span>
+        <b>Views and Followers :</b>
+</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdullahallnaim">
 </a>
