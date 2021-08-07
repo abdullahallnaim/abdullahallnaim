@@ -6,40 +6,41 @@
 <h3 align="center">I'm a passionate and curious Python Programmer and Python Django Developer</h3>
 
 <!-- <img src="https://img.icons8.com/bubbles/50/000000/about.png"/><h1 align="center"> I'm Naim </h1> -->
-<div style='display : flex'>
+<span style='display : flex'>
         <p style='padding-right:10px'><img width="30px" height="30px" src="https://img.icons8.com/bubbles/50/000000/about.png"/></p>
         <h2><b>About Me</b> </h2>
-</div>
+</span>
 
-<div style='margin-left:29px'> 
-    <div style='display : flex'>
+
+<span style='margin-left:29px'> 
+    <span style='display : flex'>
         <p style='padding-right:10px'><img src="https://img.icons8.com/color/25/000000/project-management.png"/></p>
         <p>I’m currently working on <b>Python Django Development</b> </p>
-    </div>
-    <div style='display : flex'>
+    </span>
+    <span style='display : flex'>
         <p style='padding-right:10px'><img src="https://img.icons8.com/color/28/000000/learning.png"/></p>
         <p>I’m currently learning <b>Data Structures and Algorithms.</b> </p>
-    </div>
-    <div style='display : flex'>
+    </span>
+    <span style='display : flex'>
         <p style='padding-right:10px'><img src="https://img.icons8.com/office/28/000000/search-client.png"/></p>
         <p>I’m looking to collaborate on <b>OpenSource Projects</b> </p>
-    </div>
-    <div style='display : flex'>
+    </span>
+    <span style='display : flex'>
         <p style='padding-right:10px'><img src="https://img.icons8.com/fluency/28/000000/portfolio.png"/></p>
         <p>All of my projects are available at  <b><a href="https://abdullah-all-naim.netlify.app">My Portfolio</a> </b> </p>
-    </div>
-    <div style='display : flex'>
+    </span>
+    <span style='display : flex'>
         <p style='padding-right:10px'><img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/></p>
         <p>I really love to meet with new people</p>
-    </div>
+    </span>
 
-</div>
+</span>
 
 
-<div style='display : flex'>
+<span style='display : flex'>
         <p style='padding-right:10px'><img width="30px"  height="30px" src="https://img.icons8.com/fluency/48/000000/programming.png"/> <img width="30px" height="30px" src="https://img.icons8.com/office/50/000000/administrative-tools.png"/></p>
         <h2><b>Languages and Tools :</b> </h2>
-</div>
+</span>
 
 
 <p align="left">
@@ -67,10 +68,10 @@
     </a>
 </p>
 
-<div style='display : flex'>
+<span style='display : flex'>
         <p style='padding-right:10px'><img width='30' hwight="30" src="https://img.icons8.com/doodle/48/000000/statistics.png"/></p>
         <h2><b>My Github Statistic :</b> </h2>
-</div>
+</span>
 
 
   <br/>
@@ -90,10 +91,10 @@
 <br/>
 <br/>
 
-<div style='display : flex'>
+<span style='display : flex'>
         <p style='padding-right:10px'><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></p>
         <h2><b>Connect with me :</b> </h2>
-</div>
+</span>
 
 <p align='left'>
     <a href = "https://www.linkedin.com/in/md-abdullah-all-naim/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
@@ -101,10 +102,10 @@
     <a href = "https://www.instagram.com/abdullah.allnaim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-<div style='display : flex'>
+<span style='display : flex'>
         <p style='padding-right:10px'><img src="https://img.icons8.com/doodle/48/000000/follow.png"/></p>
         <h2><b>Views and Followers :</b> </h2>
-</div>
+</span>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdullahallnaim">
 </a>
