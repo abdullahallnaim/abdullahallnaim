@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://ibb.co/d7LhvXn"><img src="https://i.ibb.co/d7LhvXn/coder.png" width='25%' height="auto" alt="coder" border="0"></a>
+<a href="https://ibb.co/SKf1MVv"><img src="https://i.ibb.co/FBHfy87/1649624817308.jpg" alt="1649624817308" border="0"></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Md Abdullah All Naim's Github Profile </h1>
-<h3 align="center">I'm a passionate and curious Python Programmer and Python Django Developer</h3>
+<h3 align="center">I'm a passionate and curious Programmer</h3>
 
 <!-- <img src="https://img.icons8.com/bubbles/50/000000/about.png"/><h1 align="center"> I'm Naim </h1> -->
 <h2>
@@ -15,19 +15,15 @@
 <p> 
     <p> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
-            <span>I’m currently working on <b>Python Django Development</b></span>
+            <span>I’m currently doing <b>Competitive Programming</b></span>
     </p>
     <p>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
-        <span>I’m currently learning <b>Data Structures and Algorithms.</b> </span>
+        <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
     </p>
     <p >
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
         <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
-    </p>
-    <p >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluency/28/000000/portfolio.png"/>
-        <span>All of my projects are available at  <b><a href="https://abdullah-all-naim.netlify.app">My Portfolio</a> </b> </span>
     </p>
     <p >
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
