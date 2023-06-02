@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://ibb.co/SKf1MVv"><img src="https://i.ibb.co/FBHfy87/1649624817308.jpg" alt="1649624817308" border="0"></a>
+<a href="https://ibb.co/JjbjgpL"><img src="https://i.ibb.co/jkxkswK/1679956819413.jpg" width="100%" alt="1679956819413" border="0"></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to Md Abdullah All Naim's Github Profile </h1>
-<h3 align="center">I'm a passionate and curious Programmer</h3>
+<h3 align="center">Porgammer And Programming Instructor</h3>
 
 <!-- <img src="https://img.icons8.com/bubbles/50/000000/about.png"/><h1 align="center"> I'm Naim </h1> -->
 <h2>
