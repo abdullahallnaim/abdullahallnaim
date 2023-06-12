@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to My Github Profile </h1>
-<h3 align="center">Progammer And Programming Instructor</h3>
+<h3 align="center">Programmer And Programming Instructor</h3>
 
 <!-- <img src="https://img.icons8.com/bubbles/50/000000/about.png"/><h1 align="center"> I'm Naim </h1> -->
 <h2>
