@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abdullah All Naim</h1>
-<h3 align="center">CS Instructor Phitron Team @ Programming Hero || Programmer || Programming Instructor</h3>
+<h3 align="center">Software Engineer @ Intellier || EX Senior CS Instructor Phitron Team @ Programming Hero || Programmer || Programming Instructor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahallnaim&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahallnaim" /> </p>
 
