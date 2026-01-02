@@ -20,8 +20,7 @@ I'm a passionate **Software Engineer** based in Dhaka, Bangladesh, with expertis
 
 - 🔭 Currently working as **Software Engineer II @ Astha.IT**
 - 👨‍🏫 **Lead Instructor (Python/Django)** @ Ostad
-- 🎓 **B.Sc. in BECM** from KUET (CGPA: 3.38/4.00)
-- 🏆 Received **4x Technical Scholarships** for academic excellence
+- 🎓 **B.Sc. in BECM** from KUET
 - 🧠 Research interest in **ML, AI, Computer Vision & Medical Image Processing**
 
 ---
